@@ -1,0 +1,27 @@
+{
+  "name": "layout-component",
+  "homepage": "index.html",
+  "description": "This is an example of layout a polymer component",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "Polymer",
+    "Flex",
+    "Layout"
+  ],
+  "authors": [
+    "T.D.N.Chathuranga"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~1.2.3"
+  }
+}
